@@ -1,0 +1,10 @@
+[
+  {"input": "I was charged $49 twice this month for the same plan.", "expected_category": "billing", "expected_urgency": "high"},
+  {"input": "The export button on the reports page does nothing when I click it.", "expected_category": "bug", "expected_urgency": "normal"},
+  {"input": "Could you add dark mode to the mobile app?", "expected_category": "feature", "expected_urgency": "low"},
+  {"input": "My invoice from last month shows the wrong tax amount.", "expected_category": "billing", "expected_urgency": "normal"},
+  {"input": "The app crashes every time I try to upload a file over 10MB.", "expected_category": "bug", "expected_urgency": "high"},
+  {"input": "Love the product, just wanted to say thanks!", "expected_category": "other", "expected_urgency": "low"},
+  {"input": "asdkfj can you help idk whats wrong", "expected_category": "other", "expected_urgency": "normal"},
+  {"input": "It would be great if we could export data to Excel instead of just CSV.", "expected_category": "feature", "expected_urgency": "low"}
+]
